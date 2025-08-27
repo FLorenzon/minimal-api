@@ -1,0 +1,106 @@
+# Criado por https://www.toptal.com/developers/gitignore/api/windows,macos,linux,dotnetcore,visualstudiocode
+# Edite em https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,dotnetcore,visualstudiocode
+
+### DotnetCore ###
+# Pastas de compilação do .NET Core
+lixeira/
+objeto/
+
+# Localizações comuns de módulos de nós
+/módulos_de_nó
+/wwwroot/módulos_de_nó
+
+### Linux ###
+*~
+
+# arquivos temporários que podem ser criados se um processo ainda tiver um identificador aberto de um arquivo excluído
+.fuse_oculto*
+
+# Preferências do diretório KDE
+.diretório
+
+# Pasta de lixo do Linux que pode aparecer em qualquer partição ou disco
+.Lixo-*
+
+# Os arquivos .nfs são criados quando um arquivo aberto é removido, mas ainda está sendo acessado
+.nfs*
+
+### macOS ###
+# Em geral
+.DS_Store
+.AppleDuplo
+.LSOverride
+
+# O ícone deve terminar com dois \r
+Ícone
+
+
+# Miniaturas
+._*
+
+# Arquivos que podem aparecer na raiz de um volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Itens Temporários
+.Lixos
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Diretórios potencialmente criados no compartilhamento AFP remoto
+.AppleDB
+.AppleDesktop
+Pasta de Lixeira da Rede
+Itens temporários
+.apdisk
+
+### Patch do macOS ###
+# Arquivos gerados pelo iCloud
+*.icloud
+
+### Código do VisualStudio ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensões.json
+!.vscode/*.trechos de código
+
+# Histórico local para o Visual Studio Code
+.história/
+
+# Extensões do Visual Studio Code criadas
+*.vsix
+
+### Patch do VisualStudioCode ###
+# Ignorar todo o histórico local de arquivos
+.história
+.ionídeo
+
+### Janelas ###
+# Arquivos de cache de miniaturas do Windows
+Polegares.db
+Thumbs.db:criptografável
+ehthumbs.db
+ehthumbs_vista.db
+
+# Arquivo de despejo
+*.stackdump
+
+# Arquivo de configuração de pasta
+[Dd]esktop.ini
+
+# Lixeira usada em compartilhamentos de arquivos
+$RECICLAGEM.BIN/
+
+# Arquivos do Windows Installer
+*.táxi
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Atalhos do Windows
+*.lnk
+
+# Fim de https://www.toptal.com/developers/gitignore/api/windows,macos,linux,dotnetcore,visualstudiocode
