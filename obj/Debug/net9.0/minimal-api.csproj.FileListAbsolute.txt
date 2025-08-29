@@ -124,3 +124,9 @@ D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\refint\minimal-a
 D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\minimal-api.pdb
 D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\minimal-api.genruntimeconfig.cache
 D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\ref\minimal-api.dll
+D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\minimal-api.sourcelink.json
+D:\Documentos\Temp-dotNET\Project2\minimal-api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Documentos\Temp-dotNET\Project2\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Temp-dotNET\Project2\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Temp-dotNET\Project2\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\Temp-dotNET\Project2\minimal-api\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
